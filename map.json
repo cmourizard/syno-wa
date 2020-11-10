@@ -91,7 +91,7 @@
                 {
                  "name":"jitstiRoom",
                  "type":"string",
-                 "value":"syno-rom-bellecour"
+                 "value":"syno-room-bellecour"
                 }],
          "type":"tilelayer",
          "visible":true,
