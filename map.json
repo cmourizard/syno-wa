@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/static.synolia.com\/sgd6\/workadv\/tootc1.png"
+                 "value":"https:\/\/static.synolia.com\/sgd6\/workadv\/tootc1.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/static.synolia.com\/sgd6\/workadv\/tootc2.png"
+                 "value":"https:\/\/static.synolia.com\/sgd6\/workadv\/tootc2.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/static.synolia.com\/sgd6\/workadv\/tootc3.png"
+                 "value":"https:\/\/static.synolia.com\/sgd6\/workadv\/tootc3.html"
                 }],
          "type":"tilelayer",
          "visible":true,
